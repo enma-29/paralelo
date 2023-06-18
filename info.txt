@@ -1,0 +1,1 @@
+Acceder al contendor de la base de datos:docker exec -it prueba2-postgress-mariadb-1 mysql -u 1160293 -p
